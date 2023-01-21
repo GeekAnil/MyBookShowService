@@ -26,7 +26,7 @@ char c=input.charAt(i);
         }
 
         for (Map.Entry entry : charOccurMap.entrySet()) {
-            System.out.println(entry.getKey() + " occurs  " + entry.getValue()+" times");
+            System.out.println(entry.getKey() + " occurs from Remote  " + entry.getValue()+" times");
         }
            
             System.out.println("JavaGeek Here updated from Remote");

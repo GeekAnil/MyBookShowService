@@ -28,6 +28,8 @@ char c=input.charAt(i);
         for (Map.Entry entry : charOccurMap.entrySet()) {
             System.out.println(entry.getKey() + " occurs  " + entry.getValue()+" times");
         }
-
+           
+            System.out.println("This is updated again");
+        
     }
 }

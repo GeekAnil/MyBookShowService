@@ -26,6 +26,6 @@ public class FizzBuzzNumber {
                 result.add(Integer.toString(i));
             }
         }
-        System.out.println("Result in remote is: "+result);
+        System.out.println("Result in remote is updated now: "+result);
     }
 }

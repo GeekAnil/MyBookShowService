@@ -26,6 +26,6 @@ public class FizzBuzzNumber {
                 result.add(Integer.toString(i));
             }
         }
-        System.out.println(result);
+        System.out.println("Result is: "+result);
     }
 }
